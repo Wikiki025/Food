@@ -84,9 +84,9 @@ input{ width:15%;
 	.right img { height:25%}
 	.left img { height:25%}
 															@keyframes lefg{ from{ top:50%; left:0%}
-					to{ top:65%; left:15%}}
+					to{ top:60%; left:15%}}
 		
 @keyframes rig{ from{ top:50%;right:0%}
-				to{ top:65%;right:28%}} 
+				to{ top:60%;right:28%}} 
 			
 }
